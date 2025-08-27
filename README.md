@@ -64,7 +64,7 @@ The goal of this project is to demonstrate how machine learning can help in the 
 
 Install all dependencies with:
 ```bash
-"pip install -r requirements.txt"
+pip install -r requirements.txt
 ```
 
 ---
